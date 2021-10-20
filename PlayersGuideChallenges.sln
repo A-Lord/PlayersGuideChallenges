@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersGuideChallenges", "PlayersGuideChallenges\PlayersGuideChallenges.csproj", "{1A482252-5303-4E5A-B752-E67591A40495}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayersGuideChallenges", "PlayersGuideChallenges\PlayersGuideChallenges.csproj", "{1A482252-5303-4E5A-B752-E67591A40495}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "The Old Robot", "The Old Robot", "{477D38C7-7E10-4B80-8ACF-70C2B304BB5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room Coordinates", "Room Coordinates\Room Coordinates.csproj", "{558C5363-87F7-44CA-92C6-1D7CF08556DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,10 @@ Global
 		{1A482252-5303-4E5A-B752-E67591A40495}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A482252-5303-4E5A-B752-E67591A40495}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A482252-5303-4E5A-B752-E67591A40495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{558C5363-87F7-44CA-92C6-1D7CF08556DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558C5363-87F7-44CA-92C6-1D7CF08556DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558C5363-87F7-44CA-92C6-1D7CF08556DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558C5363-87F7-44CA-92C6-1D7CF08556DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
