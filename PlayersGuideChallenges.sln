@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "The Old Robot", "The Old Ro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room Coordinates", "Room Coordinates\Room Coordinates.csproj", "{558C5363-87F7-44CA-92C6-1D7CF08556DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "War Preparations", "War Preparations\War Preparations.csproj", "{15BBBBFC-2A3F-40A3-87DC-A05F79865912}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{558C5363-87F7-44CA-92C6-1D7CF08556DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{558C5363-87F7-44CA-92C6-1D7CF08556DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{558C5363-87F7-44CA-92C6-1D7CF08556DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BBBBFC-2A3F-40A3-87DC-A05F79865912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BBBBFC-2A3F-40A3-87DC-A05F79865912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BBBBFC-2A3F-40A3-87DC-A05F79865912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BBBBFC-2A3F-40A3-87DC-A05F79865912}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
