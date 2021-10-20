@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace PlayersGuideChallenges.The_Old_Robot
 {
-    public abstract class RobotCommand
+    public interface IRobotCommand
     {
-        public abstract void Run(Robot robot);
+          void Run(Robot robot);
     }
 }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace PlayersGuideChallenges.The_Old_Robot
 {
-    public class SouthCommand : RobotCommand
+    public class SouthCommand : IRobotCommand
     {
-        public override void Run(Robot robot)
+        public void Run(Robot robot)
         {
             if (robot.IsPowered)
                 robot.Y -= 1;
